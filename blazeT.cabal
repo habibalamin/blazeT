@@ -30,7 +30,7 @@ Custom-setup
   setup-depends:  base >= 4.0.0.0 && < 5, Cabal
 
 Library
-  -- Default-Language: Haskell2010              
+  Default-Language: Haskell2010
   Hs-source-dirs: src
   Ghc-Options:    -Wall
                   -fsimpl-tick-factor=200
