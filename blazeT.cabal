@@ -19,7 +19,7 @@ Description:
 
 
 Build-type:    Custom
-Cabal-version: >= 1.8
+Cabal-version: >= 1.10
 
 Extra-source-files:
   README.md
