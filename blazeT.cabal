@@ -27,7 +27,7 @@ Extra-source-files:
   src/Util/GenerateHtmlTCombinators.hs
 
 Custom-setup
-  setup-depends:  base >= 4.0.0.0 && < 5, Cabal
+  setup-depends:  base >= 4.0.0.0 && < 5, Cabal < 4
 
 Library
   Default-Language: Haskell2010
